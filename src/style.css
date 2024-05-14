@@ -13,6 +13,25 @@ html {
 
   --imp-text-color: #c770f0;
 }
+.hamburger-icon {
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  margin: 5px 0;
+  transition: all 0.3s ease;
+}
+
+.hamburger-icon.open:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+
+.hamburger-icon.open:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger-icon.open:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
 
 .purple {
   color: var(--imp-text-color) !important;

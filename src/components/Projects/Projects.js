@@ -26,7 +26,7 @@ function Projects() {
               title="RGUKT Problems HUB"
               description="A website for carrying the problems of students to corresponding workers."
               ghLink="https://github.com/VinayMada/RGUKT-Problems-HUB"
-              demoLink="rgukt-problems-hub.netlify.app/"
+              demoLink="https://rgukt-problems-hub.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">

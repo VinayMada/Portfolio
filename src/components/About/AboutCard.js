@@ -8,12 +8,25 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Vinay Mada </span>
+            Hello, I am <span className="purple">Vinay Mada </span>
             from <span className="purple"> Telangana, India.</span>
             <br />
-            I am currently pursuing my B.Tech 4th year in RGUKT,Basar.
+            <br />
+            I am pursuing my Bachelor of Technology in Computer Science and Engineering at RGUKT-Basar with a CGPA of 9.35.
             <br />
             <br />
+            I specialize in Full Stack Development and have completed notable projects like the <span className="purple">RGUKT Problems Hub </span>and <span className="purple">RGUKT Lab Dues Tracker</span> using the MERN stack. 
+            <br/>
+            <br />
+            My technical skills include<span className="purple"> React, TypeScript, Spring Boot, C++, JavaScript, and more.</span> 
+            
+            <br/>
+            <br />
+            I excel in teamwork, communication, and problem-solving, 
+            and have achieved top ranks in programming courses and competitions. 
+            
+            
+                <br /><br />
             Apart from coding ,some other activities that I love to do!
           </p>
           <ul>
